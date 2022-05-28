@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Logical_Programs_CS</id>
+    <version>1.0.0</version>
+    <authors>Logical_Programs_CS</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Users\Bridgelabz_Fellowship_Programs\Logical_Programs_CS\bin\Debug\net6.0\Logical_Programs_CS.runtimeconfig.json" target="lib\net6.0\Logical_Programs_CS.runtimeconfig.json" />
+    <file src="E:\Users\Bridgelabz_Fellowship_Programs\Logical_Programs_CS\bin\Debug\net6.0\Logical_Programs_CS.dll" target="lib\net6.0\Logical_Programs_CS.dll" />
+  </files>
+</package>

@@ -1,0 +1,15 @@
+E:\Users\Bridgelabz_Fellowship_Programs\Logical_Programs_CS\bin\Debug\net6.0\Logical_Programs_CS.exe
+E:\Users\Bridgelabz_Fellowship_Programs\Logical_Programs_CS\bin\Debug\net6.0\Logical_Programs_CS.deps.json
+E:\Users\Bridgelabz_Fellowship_Programs\Logical_Programs_CS\bin\Debug\net6.0\Logical_Programs_CS.runtimeconfig.json
+E:\Users\Bridgelabz_Fellowship_Programs\Logical_Programs_CS\bin\Debug\net6.0\Logical_Programs_CS.dll
+E:\Users\Bridgelabz_Fellowship_Programs\Logical_Programs_CS\bin\Debug\net6.0\Logical_Programs_CS.pdb
+E:\Users\Bridgelabz_Fellowship_Programs\Logical_Programs_CS\obj\Debug\net6.0\Logical_Programs_CS.csproj.AssemblyReference.cache
+E:\Users\Bridgelabz_Fellowship_Programs\Logical_Programs_CS\obj\Debug\net6.0\Logical_Programs_CS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Bridgelabz_Fellowship_Programs\Logical_Programs_CS\obj\Debug\net6.0\Logical_Programs_CS.AssemblyInfoInputs.cache
+E:\Users\Bridgelabz_Fellowship_Programs\Logical_Programs_CS\obj\Debug\net6.0\Logical_Programs_CS.AssemblyInfo.cs
+E:\Users\Bridgelabz_Fellowship_Programs\Logical_Programs_CS\obj\Debug\net6.0\Logical_Programs_CS.csproj.CoreCompileInputs.cache
+E:\Users\Bridgelabz_Fellowship_Programs\Logical_Programs_CS\obj\Debug\net6.0\Logical_Programs_CS.dll
+E:\Users\Bridgelabz_Fellowship_Programs\Logical_Programs_CS\obj\Debug\net6.0\refint\Logical_Programs_CS.dll
+E:\Users\Bridgelabz_Fellowship_Programs\Logical_Programs_CS\obj\Debug\net6.0\Logical_Programs_CS.pdb
+E:\Users\Bridgelabz_Fellowship_Programs\Logical_Programs_CS\obj\Debug\net6.0\Logical_Programs_CS.genruntimeconfig.cache
+E:\Users\Bridgelabz_Fellowship_Programs\Logical_Programs_CS\obj\Debug\net6.0\ref\Logical_Programs_CS.dll
